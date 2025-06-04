@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
-
 public class Calculator {
+    int add(int a, int b){
+        return a+b;
+    }
+    double add(double a,double b){
+        return a+b;
+    }
+    void display(){
+        System.out.println("Standard calculator");
+    }
 }
