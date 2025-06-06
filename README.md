@@ -1,5 +1,8 @@
 # Java-basics
 
+🚧 **Currently Working On It!**  
+
+
 This repository contains Java programs and concepts that I revised and practiced during my learning journey. The code covers foundational and advanced Java topics, including object-oriented programming, exception handling, multithreading, packages, and wrapper classes.
 
 ---
@@ -39,3 +42,4 @@ This repository contains Java programs and concepts that I revised and practiced
 - Captured and printed exceptions to understand error propagation and debugging techniques.
 
 ---
+This repository serves as both a personal learning log and a reference for others who are learning Java. I aim to make the examples simple, relevant, and easy to follow.
