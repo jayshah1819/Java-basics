@@ -2,7 +2,7 @@ package OOPsConcecpts;
 
 public class ClassesAndMethods {
     public static void main(String[] args) {
-        Student student1= new Student("jay",12,15);
+        Student student1=new Student();
         Student student2=new Student("ritu",22,20);
         Student student3=new Student();
 
@@ -15,7 +15,7 @@ public class ClassesAndMethods {
 
 
 
-        System.out.println(student1.rnum+", " +student3.marks+","+student3.name);
+        System.out.println(student2.rnum+", " +student3.marks+","+student3.name);
 
     }
 
