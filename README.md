@@ -10,7 +10,7 @@ This repository contains Java programs and concepts that I revised and practiced
 ## 📚 Topics Covered
 
 ### 1. **Classes, Objects, and Methods**
-- Defined custom classes like `Student`, `Calculator`, and `AdvanceCalculator`.
+- Defined custom classes like `Student`, `ConcurrencyExample.Main.Calculator`, and `ConcurrencyExample.Main.AdvanceCalculator`.
 - Demonstrated **constructor overloading** and usage of `this` keyword.
 - Implemented **method overloading** and **method overriding**.
 - Showcased class-based design and object instantiation.
@@ -34,7 +34,7 @@ This repository contains Java programs and concepts that I revised and practiced
 - Practiced using wrapper methods like `hashCode()`.
 
 ### 6. **Multithreading & Thread Lifecycle**
-- Created a `World` class extending `Thread` to demonstrate parallel execution.
+- Created a `ConcurrencyExample.Main.World` class extending `Thread` to demonstrate parallel execution.
 - Explained thread lifecycle from creation to termination using `start()` and `run()` methods.
 
 ### 7. **Stack Trace Debugging**
