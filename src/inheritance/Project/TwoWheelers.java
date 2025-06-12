@@ -6,7 +6,6 @@ public class TwoWheelers extends Vehicles{
     int hp;
     TwoWheelers(int tires,int Engine,int hp,int year,String brand, int numberPlate){
         super(year,brand,numberPlate);
-        super.specialNo;
 
     }
 }
