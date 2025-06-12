@@ -9,6 +9,7 @@ public class University {
         this.degreeType=degreeType;
 
     }
+
     University(){
 
     }
