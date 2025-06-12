@@ -11,7 +11,7 @@ public class main {
 
 
 
-        sh.sides();// if we dont write static method this java will call circle's method 
+        sh.sides();// if we dont write static method this java will call circle's method
 
     }
 }
