@@ -1,4 +1,4 @@
-package inheritance.Project;
+package OOPsConcecpts.inheritance.Project;
 
 public class Transport {
     public static void main(String[] args){

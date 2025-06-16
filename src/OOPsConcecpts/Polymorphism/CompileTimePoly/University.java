@@ -1,4 +1,4 @@
-package Polymorphism.CompileTimePoly;
+package OOPsConcecpts.Polymorphism.CompileTimePoly;
 
 public class University {
     static String UniversityOfDayton;

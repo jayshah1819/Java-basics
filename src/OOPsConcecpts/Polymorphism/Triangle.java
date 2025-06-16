@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPsConcecpts.Polymorphism;
 
 public class Triangle extends shapes{
     static void sides(){

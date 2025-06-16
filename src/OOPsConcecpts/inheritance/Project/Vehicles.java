@@ -1,4 +1,4 @@
-package inheritance.Project;
+package OOPsConcecpts.inheritance.Project;
 
 public class Vehicles {
     int year;

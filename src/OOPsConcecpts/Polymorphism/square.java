@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPsConcecpts.Polymorphism;
 
 public class square extends shapes{
     static void sides(){

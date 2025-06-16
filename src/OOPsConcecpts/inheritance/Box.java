@@ -1,4 +1,4 @@
-package inheritance;
+package OOPsConcecpts.inheritance;
 
 public class Box {
     double l;

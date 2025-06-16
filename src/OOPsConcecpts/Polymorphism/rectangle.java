@@ -1,4 +1,4 @@
-package Polymorphism;
+package OOPsConcecpts.Polymorphism;
 
 public class rectangle extends shapes{
     //If I am writing it. Its just kind of checking like hey if its sides method is overriding or not

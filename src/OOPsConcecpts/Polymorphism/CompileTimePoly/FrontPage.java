@@ -1,7 +1,6 @@
-package Polymorphism.CompileTimePoly;
+package OOPsConcecpts.Polymorphism.CompileTimePoly;
 
 import javax.swing.*;
-import Polymorphism.CompileTimePoly.Intro2;
 
 public class FrontPage {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OOPsConcecpts;
+package DifferentWaytoConst;
 
 public class ClassesAndMethods {
     public static void main(String[] args) {

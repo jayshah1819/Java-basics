@@ -1,4 +1,4 @@
-package OOPsConcecpts;
+package DifferentWaytoConst;
 
 public class Student {
     String name;
