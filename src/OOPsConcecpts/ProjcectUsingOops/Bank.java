@@ -1,5 +1,6 @@
 package OOPsConcecpts.ProjcectUsingOops;
 
+import java.util.Random;
 import java.util.Scanner;
 
 public class Bank {
@@ -12,8 +13,15 @@ public class Bank {
         System.out.println("Nice to meet you"+ userName);
         System.out.println("Can you type your Account Number associated with us or press 1 to open new account"+userName);
         int accountNumber=myobj.nextInt();
+
+        Random r=new Random();
+
         if(accountNumber==1){
             user1.AccountNumber=accountNumber;
+            for(int i=0;i<8;i++){
+                 accountNumber=r.nextInt();
+                 System.out.println("Your Account number is "+accountNumber);
+            }
         }
         else{
 
