@@ -10,7 +10,7 @@ public class Bank {
         Scanner myobj=new Scanner(System.in);
         System.out.println("Please Write your name");
         String userName=myobj.nextLine();
-        System.out.println("Nice to meet you"+ userName);
+        System.out.println("Nice to meet you"+" " + userName+"!");
         System.out.println("Can you type your Account Number associated with us or press 1 to open new account"+userName);
         int accountNumber=myobj.nextInt();
 
@@ -18,10 +18,10 @@ public class Bank {
 
         if(accountNumber==1){
             user1.AccountNumber=accountNumber;
-            for(int i=0;i<8;i++){
+
                  accountNumber=r.nextInt();
                  System.out.println("Your Account number is "+accountNumber);
-            }
+
         }
         else{
 
