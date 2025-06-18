@@ -1,32 +1,20 @@
 package OOPsConcecpts.ProjcectUsingOops;
 
 public class Account {
-    private int AccountNumber;
-    private String Name;
+    int AccountNumber;
 
-    private int depositAmmount;
-    private int totalAmount;
+     int depositAmmount;
+     int withdrawl;
+     int totalAmount;
+     Account(){
+         this.AccountNumber=AccountNumber;
+         this.depositAmmount=depositAmmount;
+     }
 
-    //Getters and setters
-    public void setAccountNumber(int AccountNumber){
-        this.AccountNumber=AccountNumber;
-    }
-    public int getAccountNumber(){
-        return AccountNumber;
-    }
-    public void setName(String Name){
-        this.Name=Name;
-    }
-    public String getName(){
-        return Name;
-    }
-    public void setDepositAmount(int depositAmount){
-       this.depositAmmount= depositAmount ;
-    }
-    public int gettotalAmount(){
-        return totalAmount;
+
+
 
     }
 
 
-}
+
