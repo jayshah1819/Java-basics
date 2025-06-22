@@ -1,5 +1,5 @@
 package OOPsConcecpts.ProjcectUsingOops;
-import redis.clients.jedis.Jedis;
+
 import java.util.Random;
 import java.util.Scanner;
 
@@ -7,7 +7,7 @@ public class Bank {
     public static void main(String[] args){
         User user1=new User();
 
-        Jedis jedis = new Jedis("localhost", 6379);
+
 
         Scanner myobj=new Scanner(System.in);
         System.out.println("Please Write your name");
